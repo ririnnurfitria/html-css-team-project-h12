@@ -1,5 +1,5 @@
 /* untuk tablet */
-@media all and (max-width: 850px) {
+@media all and (max-width: 760px) {
   .value {
     width: 33.33%;
   }
